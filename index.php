@@ -1,3 +1,3 @@
 <?php
-    include_once("front.html");
+    include_once("pixer.html");
 ?>
